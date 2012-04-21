@@ -1,6 +1,5 @@
-k-shortest-paths
+k-shortest-paths-d
 ==================
 
-An implementation of K-Shortest Path Algorithm in D.
-
+Finding k-th shortest paths with Dijkstra Algorithm in D
 see src/engine.d
